@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "19-11.jpeg",
         "20-11.jpeg",
         "22-11.jpeg",
-        "24-11.Jpeg",
+        "24-11.jpeg",
         "26-11.jpeg",
         "26-11-NRN.jpeg",
         "29-11.jpeg",
